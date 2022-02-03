@@ -1,0 +1,5 @@
+[mod]
+title:partial war
+description:描述当代的战争，建议开1倍速 未完成 作者wihn
+
+tags: starting-units, units
